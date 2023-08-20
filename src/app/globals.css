@@ -1,10 +1,13 @@
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
+<<<<<<< HEAD
   --logo-color: #5D5D6C;
   --bg-secondary: #F3F5F6;
   --text-dark: #737380;
   --delete-color: #DE3838;
+=======
+>>>>>>> refs/remotes/origin/master
 }
 
 * {
